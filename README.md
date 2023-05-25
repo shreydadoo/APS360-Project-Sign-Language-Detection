@@ -1,6 +1,10 @@
 # Recognizing And Translating Sign Language
 
-
+The contributors to the project are: 
+1. Shreyaansh Dadoo
+2. Chahit Uppal
+3. Lavanya Mehndiratta
+4. Gunin Wasan
 
 ## Abstract
 
