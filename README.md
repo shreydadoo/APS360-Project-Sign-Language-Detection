@@ -2,7 +2,7 @@
 
 
 
-## ABSTRACT
+## Abstract
 
 Machine learning is the process of a computer learning about real-life data using
 various models and algorithms. Part of it includes the classification of the input
@@ -14,7 +14,7 @@ brain. The following sections of this paper are in relation to the progress of o
 project, which is to output individual sign language letters based on a live video
 cam.
 
- ## INTRODUCTION
+ ## Introduction
 We plan on building an inclusive society that allows everyone to communicate effortlessly. Using
 the power of machine learning, we wish to provide a meaningful product to help disadvantaged
 sections of our society(Khalifa, 2021). The goal of our project is to recognize sign language and
@@ -27,7 +27,7 @@ for a translator and make communication seamless(Johnny & Nirmala, 2021). Using 
 machine learning(Herazo, 2020), we can make sign language translation readily available in all parts
 of the world(Alarcon, 2019).
 
-## ILLUSTRATION
+## Illustration
 Figure 1 demonstrates the architectural overflow of the model. The input captures images from the
 live feed when it recognizes a hand gesture and processes it through the CNN Model to give the
 predicted letter as an output.
