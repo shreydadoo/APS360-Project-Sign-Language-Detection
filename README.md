@@ -6,8 +6,7 @@ RECOGNIZING AND TRANSLATING SIGN LANGUAGE
 Machine learning is the process of a computer learning about real-life data using
 various models and algorithms. Part of it includes the classification of the input
 data which essentially means that it divides the input into different categories of
-outputs and guesses what the data might be. For example, if the input data is im-
-ages of animals, a possible classification could be into mammals or birds. To allow
+outputs and guesses what the data might be. For example, if the input data is images of animals, a possible classification could be into mammals or birds. To allow
 for these classifications, the model uses neural networks or a series of algorithms
 that implicitly understands the relationships between the data, much similar to our
 brain. The following sections of this paper are in relation to the progress of our
